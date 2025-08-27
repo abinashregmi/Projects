@@ -22,7 +22,7 @@ import streamlit as st
 st.image(
     "https://raw.githubusercontent.com/dataprofessor/streamlit_freecodecamp/main/app_2_simple_bioinformatics_dna/dna-logo.jpg",
     caption="DNA Logo",
-    use_column_width=True
+    use_container_width=True
 )
 
 
