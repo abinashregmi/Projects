@@ -1,2 +1,4 @@
 # Projects
-Internet of Things
+## Data Science with AI and other miscellaneous projects
+
+
